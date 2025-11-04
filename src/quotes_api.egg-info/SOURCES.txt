@@ -1,0 +1,7 @@
+pyproject.toml
+src/app.py
+src/quotes_api.egg-info/PKG-INFO
+src/quotes_api.egg-info/SOURCES.txt
+src/quotes_api.egg-info/dependency_links.txt
+src/quotes_api.egg-info/requires.txt
+src/quotes_api.egg-info/top_level.txt
